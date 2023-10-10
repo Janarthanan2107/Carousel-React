@@ -9,7 +9,7 @@ const Carousel = ({
 }) => {
   return (
     <article
-      className="flex max-w-xl flex-col items-start justify-between p-3"
+      className="flex max-w-xl flex-col items-start justify-between p-7"
       key={id}
     >
       <div className="w-full min-h-[250px] flex justify-center items-center py-3 rounded-2xl shadow-lg cursor-pointer">

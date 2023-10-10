@@ -33,6 +33,7 @@ const App = () => {
     slidesToShow: 3,
     slidesToScroll: 2,
     speed: 1500,
+    swipeToSlide: true,
     // autoplay: true,
     // autoplaySpeed: 2500,
     // pauseOnHover: true,

@@ -1,4 +1,4 @@
-# FAQ's Application
+# Product Carousel Application
 
 A brief description of your React application.
 
